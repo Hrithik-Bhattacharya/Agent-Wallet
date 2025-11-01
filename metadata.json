@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous AI Agent Dashboard",
+  "description": "A web application that simulates an autonomous AI agent managing a crypto wallet, interacting with smart contracts, and making decisions powered by Gemini to achieve goals.",
+  "requestFramePermissions": []
+}

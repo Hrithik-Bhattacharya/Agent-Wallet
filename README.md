@@ -9,5 +9,5 @@
 3. Run the app:
    `npm run dev`
 
-## Deployment Link:
-[https://agentwallet.vercel.app/](url)
+## Deployment:
+[Agent Wallet](https://agentwallet.vercel.app/)
